@@ -1,0 +1,36 @@
+import pandas as pd
+
+# Accurate data with corrected double hundred records
+data = {
+    "Team": [
+        "Australia", "South Africa", "New Zealand", "England",
+        "Sri Lanka", "West Indies", "Bangladesh"
+    ],
+    "Matches": [30, 16, 14, 28, 12, 16, 8],
+    "Inns": [53, 28, 27, 50, 22, 27, 13],
+    "Balls faced": [4292, 2459, 1779, 3824, 1589, 1927, 748],
+    "Runs": [2232, 1408, 959, 1991, 1085, 1019, 536],
+    "Highest score": ["186", "254*", "211", "235", "243", "200", "204"],
+    "Not out": [2, 2, 2, 3, 2, 0, 2],
+    "Batting average": [43.76, 57.25, 38.36, 42.36, 67.81, 48.52, 48.72],
+    "Strike Rate": [52.00, 57.25, 53.90, 52.06, 68.28, 53.15, 71.65],
+    "Fifties": [5, 3, 4, 9, 1, 2, 0],
+    "Hundreds": [9, 4, 3, 6, 5, 4, 2],
+    "Double hundreds": [0, 1, 1, 1, 2, 1, 1],
+    "Fours": [242, 184, 116, 235, 99, 92, 59],
+    "Sixes": [7, 6, 4, 2, 6, 3, 2]
+}
+
+# Create the final corrected DataFrame
+df = pd.DataFrame(data)
+
+# Display the updated DataFrame
+print(df)
+
+from google.colab import files
+
+# Save CSV
+df.to_csv("virat_test_stats.csv", index=False)
+
+# Download it
+files.download("virat_test_stats.csv")
