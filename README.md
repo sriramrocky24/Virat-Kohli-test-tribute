@@ -48,8 +48,11 @@ Milestone comparison by opponent
 
 # 🔥 Key Insights
 Sri Lanka recorded the highest batting average and strike rate.
+
 Australia proved to be the toughest opponent with lower average performance.
+
 Virat Kohli showed strong consistency across all major opponents.
+
 Boundary analysis highlights a controlled and technically strong batting style.
 
 # 🎯 Skills Demonstrated
