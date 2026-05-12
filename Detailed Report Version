@@ -1,0 +1,131 @@
+*🏏 Virat Kohli Test Career Analytics Report*
+
+📖 Business Summary
+This project is a cricket analytics dashboard created to analyze Virat Kohli’s Test cricket career using SQL, Python, Excel, and Power BI. The dashboard provides opponent-wise and career-wise performance analysis through KPI reporting, milestone tracking, and batting pattern visualization.
+The project transforms cricket statistics into meaningful analytical insights using data visualization and comparative performance analysis.
+
+🎯 Objectives
+Analyze Virat Kohli’s overall Test career statistics.
+Compare performance against different opponents.
+Evaluate batting consistency and scoring efficiency.
+Track milestone achievements such as centuries and double centuries.
+Analyze batting style using fours and sixes distribution.
+
+🌍 Analysis Coverage
+Career-wise Analysis
+Opponent-wise Analysis
+Milestone Analysis
+Strike Rate & Batting Average Comparison
+Boundary Distribution Analysis
+
+🛠️ Technologies Used
+SQL
+Python
+Excel
+DAX
+
+📈 Performance Indicators
+Matches
+Innings
+Runs
+Balls Faced
+Batting Average
+Strike Rate
+Fifties
+Hundreds
+Double Hundreds
+Fours
+Sixes
+Not Outs
+
+📑 Dashboard Structure
+
+1️⃣ Career Insights & Stats
+This page focuses on overall Test career performance and opponent-wise comparison.
+
+KPI Cards
+Total Matches
+Total Innings
+Total Balls Faced
+Total Runs
+Batting Average
+Strike Rate
+Visual Analysis
+Runs vs Balls Faced comparison by opponent
+Batting Average vs Strike Rate comparison
+Opponent filter interaction
+
+2️⃣ Legendary Strokeplay
+This page focuses on milestone achievements and batting style analysis.
+KPI Cards
+Total Fifties
+Total Hundreds
+Total Double Hundreds
+Total Fours
+Total Sixes
+Total Not Outs
+Visual Analysis
+Fifties vs Hundreds vs Double Hundreds distribution
+Fours vs Sixes comparison by opponent
+Opponent-wise milestone analysis
+
+🔥 Key Findings
+
+1️⃣ Best Performance – Sri Lanka
+Highest Batting Average: 67.81
+Highest Strike Rate: 68.28
+
+Insight
+Virat Kohli displayed highly aggressive yet consistent batting performance against Sri Lanka.
+
+2️⃣ Toughest Opponent – Australia
+Lowest Batting Average: 43.76
+Highest Balls Faced: 4292
+
+Insight
+Australian bowling attacks demanded a more controlled and patient batting approach.
+
+3️⃣ Batting Style Analysis
+Total Fours: 1027
+Total Sixes: 30
+
+Insight
+The boundary distribution highlights a technically strong and ground-shot focused Test batting style.
+
+4️⃣ Consistency Analysis
+Virat Kohli maintained strong batting performance across all major opponents without major performance collapse against any specific team.
+
+🎯 Skills Demonstrated
+Sports Data Analytics
+SQL Analysis
+Python Data Preparation
+Power BI Dashboard Development
+KPI Tracking
+Data Visualization
+Analytical Storytelling
+Business Insight Interpretation
+
+🌟 Project Outcome
+This project demonstrates how sports performance data can be transformed into analytical insights using Power BI, SQL, and Python.
+
+The dashboard provides:
+career performance monitoring
+opponent-wise analysis
+milestone tracking
+batting pattern interpretation
+interactive sports analytics reporting through a centralized analytical dashboard.
+
+🧾 Project Files
+Virat_Kohli_Test_Tribute.pbix
+Excel Datasets
+SQL Query File
+Python Dataset Preparation File
+Dashboard Screenshots
+
+🖥️ How to Open
+Download the PBIX file
+Open using Power BI Desktop
+Explore dashboard visuals and filters
+
+📌 Conclusion
+This project combines sports analytics, KPI visualization, and analytical storytelling into a Power BI dashboard solution.
